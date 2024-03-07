@@ -12,4 +12,4 @@
 
 ## 🤖 Other projects:
 <b>Microcontroller </b>
-* Simon Game
+* [Memory Game](https://github.com/JessyEliza21/Memory_Game)
